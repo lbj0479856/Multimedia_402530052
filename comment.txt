@@ -1,0 +1,7 @@
+603530013 has connected
+603530018 has connected
+
+4/30HW1:3.5+4*0.65=6.1
+你的sourcetree有問題應盡早詢問他人或助教
+另外檔案的日期與你何時連上sourcetree無關，而是與你何時上傳至github有關，sourcetree只是一個方便讓你上傳至github的軟體。
+因為你的日期問題，*0.65低於準時繳交且給予整卻連結的組別，但高於遲交的組別
